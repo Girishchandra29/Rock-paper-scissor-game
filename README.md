@@ -1,1 +1,1 @@
-# Rock-paper-scissor-game
+A simple browser-based implementation where the user competes against the computer. The user selects their choice (rock, paper, or scissors), and the computer randomly generates its choice. The game then determines the winner based on traditional rules: rock beats scissors, scissors beat paper, and paper beats rock. The scores are updated accordingly, and messages are displayed to indicate whether the user won, lost, or if the game was a draw​.
